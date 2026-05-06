@@ -1,2 +1,2 @@
-# AI_Interview_Contributor_Project
+# ai-interview-contributor-project
 everyone can contribute
